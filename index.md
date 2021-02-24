@@ -3,21 +3,22 @@
 
 #### 1-Month Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1MONTH_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1MONTH_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1MONTH_MONTHLY.csv)
 
 #### 3-Month Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3MONTHS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3MONTHS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3MONTHS_MONTHLY.csv)
 
 #### 6-Month Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/6MONTHS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/6MONTHS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/6MONTHS_MONTHLY.csv)
+
 
 
 #### 1-Year Treasury Constant Maturity Rate
