@@ -75,7 +75,7 @@
 * [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/30YEARS_MONTHLY.csv)
 
 
-```{R}
+```
 install.packages("fredr")
 install.packages("ggplot2")
 library(fredr)
