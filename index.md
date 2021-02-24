@@ -23,52 +23,57 @@
 
 #### 1-Year Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1YEAR_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1YEAR_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/1YEAR_MONTHLY.csv)
 
 #### 2-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/2YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/2YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/2YEARS_MONTHLY.csv)
+
 
 #### 3-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/3YEARS_MONTHLY.csv)
 
 #### 5-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/5YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/5YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/5YEARS_MONTHLY.csv)
+
+
 #### 7-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/7YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/7YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/7YEARS_MONTHLY.csv)
 
 
 #### 10-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/10YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/10YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/10YEARS_MONTHLY.csv)
+
 
 #### 20-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/20YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/20YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/20YEARS_MONTHLY.csv)
 
 
 #### 30-Years Treasury Constant Maturity Rate
 
-* [Daily]() 
-* [Weekly]() 
-* [Monthly]()
+* [Daily](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/30YEARS_DAILY.csv) 
+* [Weekly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/30YEARS_WEEKLY.csv) 
+* [Monthly](https://raw.githubusercontent.com/simonpboucher1/Treasury-Constant-Maturity/main/30YEARS_MONTHLY.csv)
+
 
 You can use the [editor on GitHub](https://github.com/simonpboucher1/Treasury-Constant-Maturity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
